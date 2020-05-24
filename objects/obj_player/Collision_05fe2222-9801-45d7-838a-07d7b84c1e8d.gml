@@ -1,0 +1,1 @@
+game_restart(); //  Assim apenas reiniciamos o Level
